@@ -1,0 +1,8 @@
+{
+  "name": "stylus-latest",
+  "description": "Expressive, dynamic, robust CSS",
+  "author": "Meteor Development Group",
+  "homepage": "https://github.com/sbking/meteor-stylus-latest",
+  "version": "0.44.0",
+  "git": "https://github.com/sbking/meteor-stylus-latest.git"
+}

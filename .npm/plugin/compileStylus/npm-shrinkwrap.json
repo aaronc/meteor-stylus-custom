@@ -1,0 +1,140 @@
+{
+  "dependencies": {
+    "axis-css": {
+      "version": "0.1.8",
+      "dependencies": {
+        "autoprefixer-stylus": {
+          "version": "0.0.3",
+          "dependencies": {
+            "autoprefixer": {
+              "version": "0.8.20131213",
+              "dependencies": {
+                "css-parse": {
+                  "version": "1.6.0"
+                },
+                "css-stringify": {
+                  "version": "1.4.1",
+                  "dependencies": {
+                    "source-map": {
+                      "version": "0.1.33",
+                      "dependencies": {
+                        "amdefine": {
+                          "version": "0.1.0"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "jeet": {
+      "version": "5.2.10",
+      "dependencies": {
+        "stylus": {
+          "version": "0.42.3",
+          "dependencies": {
+            "css-parse": {
+              "version": "1.7.0"
+            },
+            "mkdirp": {
+              "version": "0.3.5"
+            },
+            "debug": {
+              "version": "0.8.1"
+            },
+            "sax": {
+              "version": "0.5.8"
+            },
+            "glob": {
+              "version": "3.2.11",
+              "dependencies": {
+                "inherits": {
+                  "version": "2.0.1"
+                },
+                "minimatch": {
+                  "version": "0.3.0",
+                  "dependencies": {
+                    "lru-cache": {
+                      "version": "2.5.0"
+                    },
+                    "sigmund": {
+                      "version": "1.0.0"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "nib": {
+      "version": "1.0.2",
+      "dependencies": {
+        "stylus": {
+          "version": "0.37.0",
+          "dependencies": {
+            "cssom": {
+              "version": "0.2.5"
+            },
+            "mkdirp": {
+              "version": "0.3.5"
+            },
+            "debug": {
+              "version": "0.8.0"
+            },
+            "sax": {
+              "version": "0.5.8"
+            }
+          }
+        }
+      }
+    },
+    "rupture": {
+      "version": "0.1.0"
+    },
+    "stylus": {
+      "version": "0.45.1",
+      "dependencies": {
+        "css-parse": {
+          "version": "1.7.0"
+        },
+        "mkdirp": {
+          "version": "0.3.5"
+        },
+        "debug": {
+          "version": "0.8.1"
+        },
+        "sax": {
+          "version": "0.5.8"
+        },
+        "glob": {
+          "version": "3.2.11",
+          "dependencies": {
+            "inherits": {
+              "version": "2.0.1"
+            },
+            "minimatch": {
+              "version": "0.3.0",
+              "dependencies": {
+                "lru-cache": {
+                  "version": "2.5.0"
+                },
+                "sigmund": {
+                  "version": "1.0.0"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "typographic": {
+      "version": "0.0.4"
+    }
+  }
+}
